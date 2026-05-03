@@ -31,3 +31,14 @@ data/index/
 data/embeddings/
 *.sqlite
 *.db
+
+#folders
+/data
+/support_tickets
+
+#md
+AGENTS.md
+CLAUDE.md
+evaluation_criteria.md
+problem_statements.md
+README.md
